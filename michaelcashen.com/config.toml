@@ -1,0 +1,60 @@
+#[module]
+#[[module.imports]]
+#  path = 'github.com/LordMathis/hugo-theme-nightfall'
+
+theme = "nightfall"
+
+baseURL = 'http://michaelcashe.com/'
+languageCode = 'en-us'
+title = 'Michael Cashen'
+
+[menu]
+#  [[menu.header]]
+#    name = "blog"
+#    weight = 0
+#    url = "blog"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "about"
+
+[params]
+user = "michael"
+hostname = "michaelcashen.com"
+  [params.author]
+    name = "Michael Cashen"  # Website and RSS feed author
+    email = "michael@michaelcashen.com"  # RSS feed email address
+
+readingTime = true  # Show reading time on post page
+published = true  # Show published data on post page
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/hypotize"
+
+[[params.social]]
+key = 1
+name = "twitter"
+url = "https://twitter.com/michaelcashen"
+
+[[params.social]]
+key = 2
+name = "linkedin"
+url = "https://www.linkedin.com/in/michaelcashen/"
+
+[[params.social]]
+key = 3
+name = "youtube"
+url = "https://www.youtube.com/michaelcashen"
+
+[[params.social]]
+key = 4
+name = "email"
+url = "mailto:michael@hypotize.com"
+
+[[params.social]]
+key = 5
+name = "more about me"
+url = "/about/"
+
