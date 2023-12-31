@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Me on Michael Cashen</title>
+    <link>http://michaelcashe.com/about/</link>
+    <description>Recent content in About Me on Michael Cashen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>michael@michaelcashen.com (Michael Cashen)</managingEditor>
+    <webMaster>michael@michaelcashen.com (Michael Cashen)</webMaster>
+    <lastBuildDate>Sat, 30 Dec 2023 07:48:36 +0900</lastBuildDate>
+    <atom:link href="http://michaelcashe.com/about/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

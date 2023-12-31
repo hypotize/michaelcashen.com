@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Michael Cashen</title>
+    <link>http://michaelcashe.com/posts/</link>
+    <description>Recent content in Posts on Michael Cashen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>michael@michaelcashen.com (Michael Cashen)</managingEditor>
+    <webMaster>michael@michaelcashen.com (Michael Cashen)</webMaster>
+    <lastBuildDate>Sat, 30 Dec 2023 07:48:36 +0900</lastBuildDate>
+    <atom:link href="http://michaelcashe.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://michaelcashe.com/posts/about-me/</link>
+      <pubDate>Sat, 30 Dec 2023 07:48:36 +0900</pubDate><author>michael@michaelcashen.com (Michael Cashen)</author>
+      <guid>http://michaelcashe.com/posts/about-me/</guid>
+      <description>About Me I&amp;rsquo;m Michael, from New Zealand, living in Tokyo. I have a wife and three kids.</description>
+    </item>
+  </channel>
+</rss>
