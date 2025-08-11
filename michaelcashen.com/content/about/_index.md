@@ -14,7 +14,7 @@ On the weekends, along with a couple of other volunteers, I run the [Miura Compu
 
 I look a little like this, tho on most days with a little more color and more chin definition:
 
-![Black and white portrait of Michael](michaelcashen.jpg "Michael Cashen")
+![Black and white portrait of Michael](/about/michaelcashen.jpg "Michael Cashen")
 
 I've lived in Tokyo (and Kanagawa) for over 20 years, and speak pretty good Japanese and English. I studied computer science at the [University of Electro-Communications](https://www.uec.ac.jp/eng/). 
 
