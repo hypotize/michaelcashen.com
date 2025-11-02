@@ -54,7 +54,12 @@ name = "email"
 url = "mailto:michael@hypotize.com"
 
 [[params.social]]
-key = 5
+key = 4
+name = "vibe code"
+url = "https://www.hyp-it.com/"
+
+[[params.social]]
+key = 6
 name = "more about me"
 url = "/about/"
 
