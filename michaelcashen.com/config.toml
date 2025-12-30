@@ -55,8 +55,8 @@ url = "mailto:michael@hypotize.com"
 
 [[params.social]]
 key = 5
-name = "vibe code"
-url = "https://www.hyp-it.com/"
+name = "Vibe coded apps"
+url = "/vibe/"
 
 [[params.social]]
 key = 6
