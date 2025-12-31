@@ -30,18 +30,18 @@ published = true  # Show published data on post page
 
 [[params.social]]
 key = 0
-name = "github"
-url = "https://github.com/hypotize"
+name = "linkedin"
+url = "https://www.linkedin.com/in/michaelcashen/"
 
 [[params.social]]
 key = 1
-name = "twitter"
-url = "https://twitter.com/michaelcashen"
+name = "insta"
+url = "https://www.instagram.com/michaeltokio"
 
 [[params.social]]
 key = 2
-name = "linkedin"
-url = "https://www.linkedin.com/in/michaelcashen/"
+name = "medium"
+url = "https://medium.com/@michaeltokyo"
 
 [[params.social]]
 key = 3
@@ -50,21 +50,16 @@ url = "https://www.youtube.com/michaelcashen"
 
 [[params.social]]
 key = 4
+name = "github"
+url = "https://github.com/hypotize"
+
+[[params.social]]
+key = 5
 name = "email"
 url = "mailto:michael@hypotize.com"
 
 [[params.social]]
-key = 5
-name = "Vibe coded apps"
-url = "/vibe/"
-
-[[params.social]]
 key = 6
-name = "medium"
-url = "https://medium.com/@michaeltokyo"
-
-[[params.social]]
-key = 7
 name = "more about me"
 url = "/about/"
 
