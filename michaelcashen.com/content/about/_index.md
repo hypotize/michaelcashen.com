@@ -18,4 +18,4 @@ I look a little like this, tho on most days with a little more color and more ch
 
 I've lived in Tokyo (and Kanagawa) for over 20 years, and speak pretty good Japanese and English. I studied computer science at the [University of Electro-Communications](https://www.uec.ac.jp/eng/). 
 
-
+These days I do a lot of AI-related stuff, but never have enough time to [vibe code](/vibe) as much as I want 
