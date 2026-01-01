@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-date: 2023-12-30T07:48:36+09:00
+date: 2026-01-01T07:48:36+09:00
 published: true
 ---
 
@@ -10,7 +10,7 @@ I'm currently the Japan Country Manager for [Engage Squared](https://engagesq.co
 
 I started a compamy [Hypotize](https://www.hypotize.com/) a long time ago and keep it around just in case I have any more great money losing ideas like [selling t-shirts](https://www.instagram.com/fishionista.shop/). 
 
-On the weekends, along with a couple of other volunteers, I run the [Miura Computer Club](https://www.miura.io/), teaching kids in Miura City, Kanagawa a little about computers. 
+On the weekends, along with a couple of other volunteers, I run the [Miura Computer Club](https://miura.io/), teaching kids in Miura City, Kanagawa a little about computers. 
 
 I look a little like this, tho on most days with a little more color and more chin definition:
 
@@ -18,4 +18,4 @@ I look a little like this, tho on most days with a little more color and more ch
 
 I've lived in Tokyo (and Kanagawa) for over 20 years, and speak pretty good Japanese and English. I studied computer science at the [University of Electro-Communications](https://www.uec.ac.jp/eng/). 
 
-These days I do a lot of AI-related stuff, but never have enough time to [vibe code](/vibe) as much as I want 
+These days I do a lot of AI-related stuff, but never have enough time to [vibe code](/vibe) as much as I want. And perhaps one day I will get lucky and sell my awesome domain [trains.jp](https://trains.jp/) - I do love me a good train ride now and then.  
