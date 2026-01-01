@@ -4,7 +4,7 @@ date: 2026-01-01T07:48:36+09:00
 published: true
 ---
 
-I'm Michael, from New Zealand, living in Tokyo.　I have a wife and three kids and we have a family New Years's card at [ake-ome.com](https://ake-ome.com/pw=kiwifruit).
+I'm Michael, from New Zealand, living in Tokyo.　I have a wife and three kids and we have a family New Years's card at [ake-ome.com](https://ake-ome.com/?pw=kiwifruit).
 
 I'm currently the Japan Country Manager for [Engage Squared](https://engagesq.com/), and I previously co-founded [Neural Squared](https://www.neural2.com/) though I am not (or at least I hope I am not) square nor squared.
 
